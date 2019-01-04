@@ -3,7 +3,7 @@ Created by Raish Allan
 TOOLCHAIN USED TO COMPILE PROGRAM:
 GNU Compiler Collection's G++ v7.2.0 using C++11 standard.
 Programmed on debian.
-Requires gcc/g++ package.
+Requires libc package.
 
 About spell:
 This program spellcheck's the users textfile input (on program enter or
